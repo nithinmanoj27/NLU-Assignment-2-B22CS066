@@ -73,11 +73,25 @@ NLU-Assignment-2-B22CS066
 │   └── TrainingNames.txt    
 │
 └── README.md
+```
 
+## 6. Setup and Usage
 
-### 6. Setup and Usage
+### Requirements
 
-**Requirements:** Install the necessary dependencies using `pip`:
+Install the necessary dependencies using pip:
 
 ```bash
 pip install torch numpy matplotlib wordcloud scikit-learn
+```
+
+Running the Code
+
+To execute the word embedding tasks:
+```bash
+python Problem1/Problem1.py
+```
+To execute the name generation models:
+```bash
+python Problem2/Problem2.py
+```
