@@ -113,6 +113,6 @@ python Problem2/Problem2.py
 ```
 
 Notes
-Word2Vec models in Problem 1 are implemented from scratch using NumPy
-RNN models in Problem 2 are implemented using PyTorch
-All preprocessing and evaluation steps are followed as in assignment guidelines
+- Word2Vec models in Problem 1 are implemented from scratch using NumPy
+- RNN models in Problem 2 are implemented using PyTorch
+- All preprocessing and evaluation steps are followed as in assignment guidelines
