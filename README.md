@@ -1,8 +1,6 @@
 # CSL 7640 – Natural Language Understanding  
 ## Assignment 2 | Spring 2026
 
-## Student Information
-
 **Name:** Nithin Manoj  
 **Roll Number:** B22CS066  
 **Course:** CSL 7640 – Natural Language Understanding  
@@ -117,4 +115,4 @@ python Problem2/Problem2.py
 Notes
 Word2Vec models in Problem 1 are implemented from scratch using NumPy
 RNN models in Problem 2 are implemented using PyTorch
-All preprocessing and evaluation steps follow assignment guidelines
+All preprocessing and evaluation steps are followed as in assignment guidelines
