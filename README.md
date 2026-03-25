@@ -73,3 +73,11 @@ NLU-Assignment-2-B22CS066
 │   └── TrainingNames.txt    
 │
 └── README.md
+
+
+### 6. Setup and Usage
+
+**Requirements:** Install the necessary dependencies using `pip`:
+
+```bash
+pip install torch numpy matplotlib wordcloud scikit-learn
